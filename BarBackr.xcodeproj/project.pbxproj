@@ -46,6 +46,7 @@
 		857010BC24E4DC2500EBD073 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		857010BF24E4DC2500EBD073 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		857010C124E4DC2500EBD073 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		85870A4A24F8513000D3C238 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		85CECAEB24E889400076B440 /* CocktailCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocktailCell.swift; sourceTree = "<group>"; };
 		85D7F8E524E7687600F801CD /* Cocktail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cocktail.swift; sourceTree = "<group>"; };
 		85D7F8EA24E770D000F801CD /* Networking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Networking.swift; sourceTree = "<group>"; };
@@ -77,6 +78,7 @@
 		857010A424E4DC2100EBD073 = {
 			isa = PBXGroup;
 			children = (
+				85870A4A24F8513000D3C238 /* README.md */,
 				857010AF24E4DC2100EBD073 /* BarBackr */,
 				857010AE24E4DC2100EBD073 /* Products */,
 				FD1A9C7BC5FF656AD1FD8B6E /* Pods */,
