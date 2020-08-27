@@ -8,6 +8,6 @@ Cocktail Recipe Manager for Bartenders
 
 ## Features
 
-- Search through hundreds of cocktail recipes with [TheCocktailDB](https://www.thecocktaildb.com) API
+- Search through hundreds of cocktail recipes with [TheCocktailDB](https://www.thecocktaildb.com/api.php) API
 - Save cocktails from the database for quick reference
 - Crate new recipes with detailed instructions, ingredients, name and photo 
